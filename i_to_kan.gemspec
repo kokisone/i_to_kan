@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["5054936+kokisone@users.noreply.github.com"]
 
   spec.summary       = "This gem is an extension to the Integer class that converts numbers to Japanese characters, kansuji."
-  spec.description   = "半角数字を漢数字に変換するIntegerクラスの拡張です。"
-  spec.homepage      = "https://github.com/kokisone"
+  spec.description   = "半角数字を漢数字に変換するIntegerクラスの拡張です。This gem is an extension to the Integer class that converts numbers to Japanese characters, kansuji."
+  spec.homepage      = "https://github.com/kokisone/i_to_kan"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
